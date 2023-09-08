@@ -1,0 +1,65 @@
+.youxi {
+  border: 5px solid black;
+  border-width: 0px 0px 5px;
+  box-sizing: border-box;
+  width: 100%;
+  display: inline-block;
+  /* display: flex; */
+  text-align: center;
+  margin: 0px 0px 10px 0px;
+}
+
+.youxi h1 {
+  display: inline-block;
+  box-sizing: border-box;
+  /* width: 25%; */
+  margin: 10px 5%;
+}
+.youxi a {
+  color: black;
+  text-decoration: none;
+}
+
+.main-1 {
+  float: left;
+}
+
+.gif-1 {
+  padding: 0;
+  border: 5px solid black;
+  border-radius: 50%;
+}
+
+.gif-border {
+  background-color: bisque;
+  padding: 0px 0px 0px 0px;
+  border: 3px solid black;
+}
+.zhiti {
+  text-shadow: 3px 3px #aaa;
+}
+
+.img-2 {
+  border: 2px solid black;
+  float: right;
+  margin-top: 30px;
+  margin-right: 30px;
+  margin-left: 100px;
+}
+
+.kuaijie {
+  margin: 10px auto;
+}
+
+.main-2 {
+  float: right;
+}
+
+footer {
+  border: 0cm solid black;
+  border-width: 5px 0px 0px;
+  padding: 5px;
+  clear: left;
+  margin: 0px 8% 5% 8%;
+  text-align: center;
+}
